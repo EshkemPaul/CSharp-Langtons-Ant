@@ -1,0 +1,10 @@
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\bin\Debug\Langton.exe.config
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\bin\Debug\Langton.exe
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\bin\Debug\Langton.pdb
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\obj\Debug\Langton.Form1.resources
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\obj\Debug\Langton.Properties.Resources.resources
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\obj\Debug\Langton.csproj.GenerateResource.Cache
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\obj\Debug\Langton.exe
+c:\users\kamil\documents\visual studio 2015\Projects\Langton\Langton\obj\Debug\Langton.pdb
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Langton\Langton\obj\Debug\Langton.Form2.resources
+C:\Users\Kamil\Documents\Visual Studio 2015\Projects\Langton\Langton\obj\Debug\Langton.csprojResolveAssemblyReference.cache
